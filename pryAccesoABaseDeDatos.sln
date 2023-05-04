@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pryAccesoABaseDeDatos", "pryAccesoABaseDeDatos.csproj", "{0C317024-28BD-497B-BD41-66ED497474A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C317024-28BD-497B-BD41-66ED497474A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C317024-28BD-497B-BD41-66ED497474A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C317024-28BD-497B-BD41-66ED497474A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C317024-28BD-497B-BD41-66ED497474A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA2B4224-4445-4E33-9BF0-5CA2DF04CBC8}
+	EndGlobalSection
+EndGlobal
